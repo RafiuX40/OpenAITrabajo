@@ -1,0 +1,7 @@
+{
+  "name": "OpenAi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
